@@ -1,8 +1,5 @@
 # Besidetech
 
-Ecco una **descrizione in markdown “professionale” per GitHub** che puoi mettere come README o come spiegazione all’interno del repo, per illustrare **il funzionamento generale** dei due script:
-
----
 
 # 🧑‍💻 Besidetech - Estrazione Criteri da Excel e Documenti (PDF/DOCX/XLSX)
 
