@@ -83,14 +83,6 @@ streamlit run semantic_criteria_extractor.py
   {
     "criterio_id": "A1",
     "descrizione": "Testo descrittivo del criterio A1..."
-  },
-  {
-    "criterio_id": "Requisiti Hardware Minimi",
-    "descrizione": "Il sistema deve avere almeno 8GB di RAM..."
-  },
-  {
-    "criterio_id": "Criterio Inferito 1",
-    "descrizione": "Le password devono essere lunghe almeno 12 caratteri..."
   }
 ]
 ```
